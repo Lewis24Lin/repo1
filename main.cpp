@@ -19,6 +19,8 @@ int main(){
 
 	int y = func2(a,b);
 	cout << y << endl;
+	
+	// test
 
 	return 0;
 }
