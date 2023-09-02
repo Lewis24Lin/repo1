@@ -13,12 +13,11 @@ int func2(int x, int y){
 int main(){
 
 	int a=1,b=2;
-	int c=3,d=4;
-
+	
 	int x = func1(a,b);
 	cout << x << endl;
 
-	int y = func2(c,d);
+	int y = func2(a,b);
 	cout << y << endl;
 
 	return 0;
