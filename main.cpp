@@ -20,9 +20,5 @@ int main(){
 	int y = func2(a,b);
 	cout << y << endl;
 	
-	// main
-
-	// b1
-
 	return 0;
 }
