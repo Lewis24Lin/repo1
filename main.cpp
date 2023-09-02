@@ -20,7 +20,7 @@ int main(){
 	int y = func2(a,b);
 	cout << y << endl;
 	
-	// b1
+	// main
 
 	return 0;
 }
