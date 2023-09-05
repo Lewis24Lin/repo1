@@ -20,7 +20,14 @@ int main(){
 	int y = func2(a,b);
 	cout << y << endl;
 	
-	// test
+	a++;
+	b++;
+	
+	x = func1(a,b);
+	cout << x << endl;
+	
+	y = func2(a,b);
+	cout << y << endl;
 
 	return 0;
 }
