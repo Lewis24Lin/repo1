@@ -1,3 +1,3 @@
 # repo1
 
-CLEAR
+clear
